@@ -83,8 +83,6 @@ i make custom discord bots for people, but i don't work for money. i work for **
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Val-dis&show_icons=true&bg_color=0d0d0d&title_color=8b0000&text_color=c9c9c9&icon_color=8b0000&border_color=3a0000" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Val-dis&layout=compact&bg_color=0d0d0d&title_color=8b0000&text_color=c9c9c9&border_color=3a0000" />
-</p>
 
 ---
 
