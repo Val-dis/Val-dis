@@ -15,7 +15,7 @@ i use ai as a tool, not a crutch.
 
 ### projects
 
-**[Valerie](https://discord.gg/mjDGP8Bstu)** `beta v5.2` `python`
+**[Valerie](https://discord.gg/mjDGP8Bstu)** `beta v5.5`
 multipurpose discord bot with 71 commands: social, economy, shop, casino games, media and utility. closed source, shown here as a portfolio piece. public testing is open in the server, so just join and try it.
 
 **[Eternity](https://www.roblox.com/games/129015723856057/Eternity)** `luau`
@@ -26,7 +26,7 @@ random roblox games and small experiments. unpolished, functional, always growin
 
 ---
 
-### valerie: command preview
+### valerie: command preview (from beta 4.2, not updated)
 
 <details>
 <summary><b>open the grimoire</b></summary>
