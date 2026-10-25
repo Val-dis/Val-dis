@@ -15,8 +15,8 @@ i use ai as a tool, not a crutch.
 
 ### projects
 
-**[Valerie](https://discord.gg/mjDGP8Bstu)** `beta v5.5`
-multipurpose discord bot with 71 commands: social, economy, shop, casino games, media and utility. closed source, shown here as a portfolio piece. public testing is open in the server, so just join and try it.
+**[Valerie](https://discord.gg/mjDGP8Bstu)** `RC V0.1`
+multipurpose discord bot with 85 commands: social, economy, shop, casino games, media and utility. closed source, shown here as a portfolio piece. public testing is open in the server, so just join and try it.
 
 **[Eternity](https://www.roblox.com/games/129015723856057/Eternity)** `luau`
 a roblox game that came from a dream. hopelessness, buddhist ideas, hopecore. light, found in the dark. it's public, go play it.
