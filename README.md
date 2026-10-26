@@ -15,7 +15,7 @@ i use ai as a tool, not a crutch.
 
 ### projects
 
-**[Valerie](https://discord.gg/mjDGP8Bstu)** `RC V0.1`
+**[Valerie](https://discord.gg/CpxzzRk4SN)** `RC V0.1.5`
 multipurpose discord bot with 85 commands: social, economy, shop, casino games, media and utility. closed source, shown here as a portfolio piece. public testing is open in the server, so just join and try it.
 
 **[Eternity](https://www.roblox.com/games/129015723856057/Eternity)** `luau`
